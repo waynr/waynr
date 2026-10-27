@@ -1,23 +1,32 @@
-### Hi there 👋
+## Hi there 👋
 
-I write software. Sometimes Go, sometimes Rust, rarely anything else these days.
+I write software. Lately I only write Rust and GLSL. I sometimes contribute to the odd Python or Golang project. I pick Rust for all my personal projects that target CPU. I'm also learning scheme and will eventually learn WGSL.
 
-I can be insufferably hawkish about Rust. You know the type.
+I don't push my personal code to github (for reasons I lay out below). Instead, check out my publicly hosted projects on gitea or sourcehut:
 
-<!--
-**waynr/waynr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* https://git.sr.ht/~waynr
+* https://gitea.com/waynr
 
-Here are some ideas to get you started:
+I do continue hosting some of my older projects on GH but will likely migrate all of them to different hosting providers eventually.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Specific projects of interest
+
+* https://git.sr.ht/~waynr/shadrun
+* https://git.sr.ht/~waynr/qsk
+* https://gitea.com/waynr/chooks
+* https://git.sr.ht/~waynr/diagrammar
+
+### Why github is no longer suitable for me
+
+Don't get me wrong -- in some ways I really appreciate how github
+
+Because the GH terms of service include an implicit license grant on all open source code it hosts that explicitly gives GH and its associated companies permission to train LLMs on code they host. You probably weren't aware of this, but now you are! Here's a [link](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#4-license-grant-to-us).
+
+GH does this because there is still an open question as to whether training LLMs on copyrighted material is considered fair use.
+
+In my view it is not fair use, specifically because of the promised LLM companies uniformly make about how LLM usage will eliminate jobs based on writing software. It's still not fair use even if they know this isn't true and are only making these claims to entice uninformed investors to throw money at them.
+
+GH goes too far in assigning themselves overly-broad rights when it comes to hosting other people's source code. It's actually pretty despicable.
 
 <details>
   <summary>my github stats</summary>
