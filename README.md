@@ -24,7 +24,7 @@ What is this abusive behavior by GH? Specifically, their terms of service includ
 
 GH does this because there is still an open question as to whether training LLMs on copyrighted material is considered fair use.
 
-In my view it is not fair use, specifically because of the promised LLM companies uniformly make about how LLM usage will eliminate jobs based on writing software. It's still not fair use even if they know this isn't true and are only making these claims to entice uninformed investors to throw money at them.
+In my view it is not fair use, specifically because of the promise LLM companies uniformly make about how LLM usage will eliminate software development jobs; therefore, they are competing economically with the content they are using for training purposes so it is not fair use. It's still not fair use even if they know this isn't true and are only making these claims to entice uninformed investors to throw money at them.
 
 GH goes too far in assigning themselves overly-broad rights when it comes to hosting other people's source code. It's actually pretty despicable.
 
