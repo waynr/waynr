@@ -18,7 +18,7 @@ I do continue hosting some of my older projects on GH but will likely migrate al
 
 ### Why github is no longer suitable for me
 
-Don't get me wrong -- in some ways I really appreciate how github
+Don't get me wrong -- in some ways I really github for the way it has made open source software development more accessible to a wider audience. But that doesn't excuse bad/abusive behavior on their part.
 
 Because the GH terms of service include an implicit license grant on all open source code it hosts that explicitly gives GH and its associated companies permission to train LLMs on code they host. You probably weren't aware of this, but now you are! Here's a [link](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#4-license-grant-to-us).
 
